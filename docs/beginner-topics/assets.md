@@ -2,7 +2,7 @@
 layout: default
 title: Assets
 parent: Beginner Topics
-nav_order: 3
+nav_order: 7
 ---
 
 # Assets
