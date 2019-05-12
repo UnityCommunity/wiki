@@ -2,6 +2,7 @@
 layout: default
 title: UI Components
 nav_order: 12
+nav_exclude: true
 has_children: true
 permalink: /docs/ui-components
 ---
