@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Performance Optimization
-nav_order: 2
+nav_order: 6
 ---
 
 # Performance Optimization
