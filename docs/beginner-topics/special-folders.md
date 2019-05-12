@@ -2,7 +2,7 @@
 layout: default
 title: Special Folders
 parent: Beginner Topics
-nav_order: 3
+nav_order: 8
 ---
 
 # Special Folders
