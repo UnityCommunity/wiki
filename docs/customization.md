@@ -2,6 +2,7 @@
 layout: default
 title: Customization
 nav_order: 15
+nav_exclude: true
 ---
 
 # Customization
