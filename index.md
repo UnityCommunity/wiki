@@ -27,6 +27,6 @@ email, or any other method with the owners of this repository before making a ch
 
 ### Code of Conduct
 
-Just the Docs is committed to fostering a welcoming community.
+Unity Community is committed to fostering a welcoming community.
 
 [View our Code of Conduct](https://github.com/UnityCommunity/UnityLibrary/blob/master/CODE_OF_CONDUCT.md) on our GitHub repository.
