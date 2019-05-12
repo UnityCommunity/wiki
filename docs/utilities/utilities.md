@@ -2,6 +2,7 @@
 layout: default
 title: Utilities
 nav_order: 13
+nav_exclude: true
 has_children: true
 permalink: docs/utilities
 ---
