@@ -2,7 +2,7 @@
 layout: default
 title: Entities
 parent: Beginner Topics
-nav_order: 3
+nav_order: 2
 ---
 
 # Entities
